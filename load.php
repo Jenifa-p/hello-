@@ -11,7 +11,7 @@
                <tr>  
                     <td>'.$row["id"].'</td>
                     <td>'.$row["name"].'</td> 
-                    <td>'.$row["mail"].'</td>
+                    <td>'.$row["email"].'</td>
                     <td>'.$row["mobile"].'</td> 
                     <td>'.$row["gender"].'</td> 
                     <td>'.$row["state"].'</td>    
